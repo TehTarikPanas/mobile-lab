@@ -8,7 +8,6 @@ Users can browse recipe by searching dishes name and view detailed recipe inform
 ## Tech Stack
 - **Framework** – Flutter
 - **Language** – Dart
-- **Font Library** – Google Fonts
 
 ---
 
