@@ -20,7 +20,7 @@ class _HomePageState extends State<HomePage> {
   final List<Recipe> recipes = [
     Recipe(
       name: 'Spaghetti & Meatball',
-      image: 'assets/images/spaghetti.jpg',
+      image: 'assets/spaghetti.jpg',
       category: 'Lunch',
       description: 'Classic Italian spaghetti served with homemade meatballs and rich tomato sauce.',
       baseServings: 2,
@@ -33,7 +33,7 @@ class _HomePageState extends State<HomePage> {
     ),
     Recipe(
       name: 'Nasi Kerabu',
-      image: 'assets/images/nasi_kerabu.jpg',
+      image: 'assets/nasi_kerabu.jpg',
       category: 'Lunch',
       description: 'A traditional Malaysian dish featuring blue rice, fresh herbs, and a variety of accompaniments.',
       baseServings: 2,
@@ -46,7 +46,7 @@ class _HomePageState extends State<HomePage> {
     ),
     Recipe(
       name: 'Lasagna',
-      image: 'assets/images/lasagna.jpg',
+      image: 'assets/lasagna.jpg',
       category: 'Dinner',
       description:
           'Layers of pasta, cheese, and meat sauce baked to perfection.',
@@ -60,7 +60,7 @@ class _HomePageState extends State<HomePage> {
     ),
     Recipe(
       name: 'Daging Dendeng',
-      image: 'assets/images/daging_dendeng.jpg',
+      image: 'assets/daging_dendeng.jpg',
       category: 'Dinner',
       description: 'Thinly sliced beef marinated and fried to a crispy texture, served with rice.',
       baseServings: 2,
@@ -72,7 +72,7 @@ class _HomePageState extends State<HomePage> {
     ),
     Recipe(
       name: 'Pancake',
-      image: 'assets/images/pancake.jpg',
+      image: 'assets/pancake.jpg',
       category: 'Breakfast',
       description: 'Fluffy pancakes served with syrup and fresh fruits.',
       baseServings: 2,
@@ -85,7 +85,7 @@ class _HomePageState extends State<HomePage> {
     ),
     Recipe(
       name: 'Croissant',
-      image: 'assets/images/croissant.jpg',
+      image: 'assets/croissant.jpg',
       category: 'Breakfast',
       description:
           'Buttery and flaky French pastry, perfect for breakfast or a snack.',
@@ -99,7 +99,7 @@ class _HomePageState extends State<HomePage> {
     ),
     Recipe(
       name: 'Nasi Lemak with Chicken',
-      image: 'assets/images/nasi_lemak_with_chicken.jpg',
+      image: 'assets/nasi_lemak_with_chicken.jpg',
       category: 'Breakfast',
       description: 'A Malaysian favorite, coconut milk rice served with fried chicken, sambal, and accompaniments.',
       baseServings: 2,
@@ -112,7 +112,7 @@ class _HomePageState extends State<HomePage> {
     ),
     Recipe(
       name: 'Bihun Goreng',
-      image: 'assets/images/bihun_goreng.jpg',
+      image: 'assets/bihun_goreng.jpg',
       category: 'Breakfast',
       description: 'Stir-fried rice vermicelli with vegetables and your choice of protein.',
       baseServings: 2,
@@ -125,7 +125,7 @@ class _HomePageState extends State<HomePage> {
     ),
     Recipe(
       name: 'Coffee',
-      image: 'assets/images/coffee.jpg',
+      image: 'assets/coffee.jpg',
       category: 'Drink',
       description: 'Freshly brewed coffee, perfect for a morning boost or an afternoon pick-me-up.',
       baseServings: 2,
@@ -138,7 +138,7 @@ class _HomePageState extends State<HomePage> {
     ),
     Recipe(
       name: 'Milo Dinosour',
-      image: 'assets/images/air_milo_dinosour.jpg',
+      image: 'assets/air_milo_dinosour.jpg',
       category: 'Drink',
       description: 'A refreshing Milo drink served with ice and a hint of chocolate flavor, perfect for hot days.',
       baseServings: 2,
